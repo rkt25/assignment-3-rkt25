@@ -1,0 +1,9 @@
+---
+title: "Claire Ravenburg"
+output: html_document
+---
+<br>
+- I am a first year Plant Biology PhD student.  
+- I grew up on a farm.  
+- I'm craving chocolate covered strawberries right now.  
+- My favorite thing about Ithaca is the natural beauty/hiking.  
