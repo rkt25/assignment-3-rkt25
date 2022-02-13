@@ -1,0 +1,13 @@
+---
+title: "Raksha Claire Website"
+author: "RKT"
+date: "2/13/2022"
+output: html_document
+---
+
+Raksha Kiran Thapa
+This is a link to my github account. <https://github.com/rkt25>
+![](RKT pic.jpg)
+
+Claire Ravenburg <https://github.com/ravenbcm>
+![](Claire.PNG)

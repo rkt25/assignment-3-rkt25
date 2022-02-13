@@ -1,0 +1,11 @@
+---
+title: "Raksha"
+author: "RKT"
+date: "2/13/2022"
+output: html_document
+---
+- Raksha is a first year graduate Student in Plant breeding and genetics. 
+- She works in Ginny Moore lab. 
+- She is from Pokhara, Nepal. 
+- Her hobbies are hiking, dancing, and skiing.
+ 
