@@ -1,0 +1,9 @@
+output_dir: "."
+navbar:
+  left:
+    - text: "Raksha Claire Website"
+      href: index.html
+    - text: "Raksha"
+      href: Raksha.html
+    - text: "Claire Ravenburg"
+      href: claire.html  
