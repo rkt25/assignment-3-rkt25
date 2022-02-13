@@ -1,7 +1,5 @@
 ---
 title: "Raksha"
-author: "RKT"
-date: "2/13/2022"
 output: html_document
 ---
 - Raksha is a first year graduate Student in Plant breeding and genetics. 
